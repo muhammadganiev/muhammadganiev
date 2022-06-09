@@ -1,4 +1,4 @@
-![dedby6o-5eb91d30-b19f-430e-adc7-29e728fbb6c1](./images/ezgif.com-gif-maker.gif)
+![ezgif.com-gif-maker](./images/ezgif.com-gif-maker.gif)
 
 <!--
 **muhammadganiev/muhammadganiev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
