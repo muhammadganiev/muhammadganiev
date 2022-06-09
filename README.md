@@ -1,6 +1,6 @@
 ![Future](developer.gif)
 
-# Hi, I'm Muhilio <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="1px" alt="hi">
+# Hi, I'm Muhilio <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30" height="40" alt="hi">
 <!--
 **muhammadganiev/muhammadganiev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
