@@ -1,4 +1,4 @@
-![ezgif.com-gif-maker](https://github.com/muhammadganiev/muhammadganiev/blob/main/images/ezgif.com-gif-maker.gif)
+![Future City](FutureCity.gif)
 
 <!--
 **muhammadganiev/muhammadganiev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
