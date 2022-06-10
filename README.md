@@ -58,11 +58,12 @@
 
 <details>
 <summary> Click here for &nbsp;
-<а href="https://42abudhabi.ae"><img src="https://img.shields.io/badge/-Abu_Dhabi-000000?logo=42style=flat-square"></а>
+<img src="https://img.shields.io/badge/-Abu_Dhabi-000000?logo=42style=flat-square">
 </summary>
 
 <!-- <img src="https://badge42.herokuapp.com/api/stats/muganiev?privacyEmail=true">
 <img src="https://badge42.herokuapp.com/api/stats/muganiev?cursus=C%20Piscine&privacyEmail=true"> -->
+[42 AbuDhabi](https://42abudhabi.ae/)
 ### 🏊‍♂️ 42 Piscine
 
 [![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/stats?cursusId=9&coalitionId=152)](https://github.com/JaeSeoKim/badge42)
