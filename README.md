@@ -58,7 +58,7 @@
 
 <details>
 <summary> Click here for &nbsp;
-<img src="https://img.shields.io/badge/-Abu_Dhabi-000000?logo=42&style=flat-square">
+<а href="https://42abudhabi.ae"><img src="https://img.shields.io/badge/-Abu_Dhabi-000000?logo=42style=flat-square"></а>
 </summary>
 
 <!-- <img src="https://badge42.herokuapp.com/api/stats/muganiev?privacyEmail=true">
