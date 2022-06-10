@@ -33,6 +33,41 @@
 ![Material Design](https://img.shields.io/badge/-Material_Design-000?logo=materialdesign&logoColor=757575&logoWidth=25)
 ![Next Js](https://img.shields.io/badge/-Next_JS-000?logo=next.js&logoColor=fff&logoWidth=25)
 
+### ☁️ Database and Cloud Hosting
+
+![Firebase](https://img.shields.io/badge/-Firebase-F05032?logo=firebase&logoColor=white&style=flat-square)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
+![SQL](https://img.shields.io/badge/-SQLite-00C7B7?logo=sqlite&logoColor=white&style=flat-square)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white&logoWidth=25)
+
+### 💻 Software and Tools
+
+![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=black&logoWidth=25&style=flat-square)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
+![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?logo=adobe%20xd&logoColor=black&logoWidth=25&style=flat-square)
+![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-blue?logo=adobe%20photoshop&logoColor=white&logoWidth=25&style=flat-square)
+![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-orange?logo=adobe%20illustrator&logoColor=white&logoWidth=25&style=flat-square)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&style=flat-square)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual%20studio%20code&style=flat-square)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+
+<!-- https://github.com/JaeSeoKim/badge42 -->
+
+## 42 Stats
+
+<details>
+<summary> Click here for &nbsp;
+<img src="https://img.shields.io/badge/-Abu_Dhabi-000000?logo=42&style=flat-square">
+</summary>
+
+<!-- <img src="https://badge42.herokuapp.com/api/stats/muganiev?privacyEmail=true">
+<img src="https://badge42.herokuapp.com/api/stats/muganiev?cursus=C%20Piscine&privacyEmail=true"> -->
+
+[![muganiev's 42 stats](https://badge42.vercel.app/api/v2/stats/cl1c1a9ce001109mq8crq44uh?cursusId=9)](https://github.com/JaeSeoKim/badge42)
+[![muganiev's 42 stats](https://badge42.vercel.app/api/v2/stats/cl1c1a9ce001109mq8crq44uh?cursusId=21)](https://github.com/JaeSeoKim/badge42)
+
+</details>
 <!--
 **muhammadganiev/muhammadganiev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
