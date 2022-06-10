@@ -64,7 +64,7 @@
 <!-- <img src="https://badge42.herokuapp.com/api/stats/muganiev?privacyEmail=true">
 <img src="https://badge42.herokuapp.com/api/stats/muganiev?cursus=C%20Piscine&privacyEmail=true"> -->
 
-[![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/stats?cursusId=21&coalitionId=152)](https://github.com/JaeSeoKim/badge42)
+[![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/stats?cursusId=9&coalitionId=186)](https://github.com/JaeSeoKim/badge42)
 [![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/stats?cursusId=21&coalitionId=152)](https://github.com/JaeSeoKim/badge42)
 
 </details>
