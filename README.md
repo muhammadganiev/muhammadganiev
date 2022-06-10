@@ -57,7 +57,7 @@
 ## 42 Stats
 
 <details>
-<summary> Click here for &nbsp;
+<summary> Click here for 42 &nbsp;
 <img src="https://img.shields.io/badge/-Abu_Dhabi-000000?logo=42style=flat-square">
 </summary>
 
