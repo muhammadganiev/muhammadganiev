@@ -70,20 +70,54 @@
 C Piscine Shell 00
 ![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/project/2523381)
 
-![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/project/2523381)
-![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/project/2543423)
-![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/project/2534206)
-![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/project/2536483)
-![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/project/2540416)
-![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/project/2529914)
-![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/project/2528714)
-![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/project/2533402)
-![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/project/2535591)
-![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/project/2532180)
-![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/project/2528175)
-![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/project/2529468)
+C Piscine C 00
 ![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/project/2525771)
+
+C Piscine C 01
+![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/project/2528714)
+
+C Piscine C 02
+![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/project/2529468)
+
+C Piscine C 03
+![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/project/2529914)
+
+C Piscine C 03
+![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/project/2529914)
+
+C Piscine C 04
+![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/project/2532180)
+
+C Piscine C 05
+![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/project/2534206)
+
+C Piscine C 06
+![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/project/2535591)
+
+C Piscine C 07
+![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/project/2536483)
+
+C Piscine C 08
+![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/project/2543423)
+
+C Piscine Rush 00
+![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/project/2528175)
+
+C Piscine Exam 00
 ![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/project/2527698)
+
+C Piscine Exam 01
+![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/project/2533402)
+
+C Piscine Exam 02
+![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/project/2540416)
+
+C Piscine Final Exam
+![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/project/2523381)
+
+
+
+
 
 [![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/stats?cursusId=21&coalitionId=152)](https://github.com/JaeSeoKim/badge42)
 
