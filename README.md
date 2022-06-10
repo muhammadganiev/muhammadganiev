@@ -56,8 +56,6 @@
 
 ## 42 Stats
 
-### 🏊‍♂️ 42 Piscine
-
 <details>
 <summary> Click here for &nbsp;
 <img src="https://img.shields.io/badge/-Abu_Dhabi-000000?logo=42&style=flat-square">
@@ -65,8 +63,9 @@
 
 <!-- <img src="https://badge42.herokuapp.com/api/stats/muganiev?privacyEmail=true">
 <img src="https://badge42.herokuapp.com/api/stats/muganiev?cursus=C%20Piscine&privacyEmail=true"> -->
+### 🏊‍♂️ 42 Piscine
 
-[![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/stats?cursusId=9&coalitionId=186)](https://github.com/JaeSeoKim/badge42)
+[![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/stats?cursusId=9&coalitionId=152)](https://github.com/JaeSeoKim/badge42)
 
 #### ✅ Piscine Projects Marks
 
@@ -117,7 +116,7 @@ C Piscine Final Exam
 
 ### 👨‍💻 42 Cursus
 
-[![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/stats?cursusId=21&coalitionId=152)](https://github.com/JaeSeoKim/badge42)
+[![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/stats?cursusId=21&coalitionId=186)](https://github.com/JaeSeoKim/badge42)
 
 #### ✅ Cursus Projects Marks
 
