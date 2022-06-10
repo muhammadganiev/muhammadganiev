@@ -56,6 +56,8 @@
 
 ## 42 Stats
 
+### 🏊‍♂️ 42 Piscine
+
 <details>
 <summary> Click here for &nbsp;
 <img src="https://img.shields.io/badge/-Abu_Dhabi-000000?logo=42&style=flat-square">
@@ -66,7 +68,8 @@
 
 [![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/stats?cursusId=9&coalitionId=186)](https://github.com/JaeSeoKim/badge42)
 
-### ✅ Piscine Projects Marks
+#### ✅ Piscine Projects Marks
+
 C Piscine Shell 00
 ![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/project/2523381)
 
@@ -78,9 +81,6 @@ C Piscine C 01
 
 C Piscine C 02
 ![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/project/2529468)
-
-C Piscine C 03
-![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/project/2529914)
 
 C Piscine C 03
 ![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/project/2529914)
@@ -113,13 +113,21 @@ C Piscine Exam 02
 ![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/project/2540416)
 
 C Piscine Final Exam
-![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/project/2523381)
+![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/project/2544055)
 
-
-
-
+### 👨‍💻 42 Cursus
 
 [![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/stats?cursusId=21&coalitionId=152)](https://github.com/JaeSeoKim/badge42)
+
+#### ✅ Cursus Projects Marks
+
+Libft
+![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/project/2584641)
+
+ft_printf
+![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/project/2613347)
+
+
 
 </details>
 <!--
