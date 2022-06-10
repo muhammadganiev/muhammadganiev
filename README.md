@@ -126,10 +126,102 @@ Libft
 
 ft_printf
 ![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/project/2613347)
+</details>
 
+## Github Stats
 
+<details>
+	<summary>
+		Click here for GitHub Stats 📊
+	</summary>
+	<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadganiev&layout=compact&langs_count=8&hide=scss,css,html&theme=dracula&border_color=ff4499" alt="muhammadganiev" />
+<img src="https://github-readme-stats.vercel.app/api?username=muhammadganiev&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="muhammadganiev" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=muhammadganiev&theme=material-palenight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="muhammadganiev" />
 
 </details>
+
+## Other Github Stats
+
+<details>
+	<summary>
+		Click here for Other GitHub Stats 📈
+	</summary>
+	<br/>
+
+<!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-594%20Thousand%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 844 Contributions in the Year 2022
+ > 
+> 📦 171.1 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 70 Public Repositories 
+ > 
+> 🔑 0 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    74 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.16% 
+🌆 Daytime    249 commits    ███████░░░░░░░░░░░░░░░░░░   30.82% 
+🌃 Evening    311 commits    █████████░░░░░░░░░░░░░░░░   38.49% 
+🌙 Night      174 commits    █████░░░░░░░░░░░░░░░░░░░░   21.53%
+
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday       135 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.71% 
+Tuesday      64 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.92% 
+Wednesday    81 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.02% 
+Thursday     129 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.97% 
+Friday       124 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.35% 
+Saturday     140 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.33% 
+Sunday       135 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.71%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Dubai
+
+💬 Programming Languages: 
+JavaScript               1 hr 23 mins        ████████░░░░░░░░░░░░░░░░░   35.4% 
+Markdown                 1 hr 12 mins        ███████░░░░░░░░░░░░░░░░░░   30.59% 
+SCSS                     58 mins             ██████░░░░░░░░░░░░░░░░░░░   24.66% 
+Git Config               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.61% 
+HTML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.06%
+
+🔥 Editors: 
+VS Code                  3 hrs 56 mins       █████████████████████████   100.0%
+
+🐱‍💻 Projects: 
+advice-generator-app     3 hrs 54 mins       ████████████████████████░   99.38% 
+my_portfolio_react       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.35% 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.21% 
+NFT preview card componen0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
+
+💻 Operating System: 
+Windows                  3 hrs 55 mins       █████████████████████████   99.79% 
+Mac                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.21%
+
+```
+ Last Updated on 09/06/2022 05:27:00 UTC
+<!--END_SECTION:waka-->
+</details>
+
+[![Muhilio's github activity graph](https://activity-graph.herokuapp.com/graph?username=muhammadganiev&theme=material-palenight&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+
 <!--
 **muhammadganiev/muhammadganiev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
