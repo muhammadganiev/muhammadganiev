@@ -65,6 +65,9 @@
 <img src="https://badge42.herokuapp.com/api/stats/muganiev?cursus=C%20Piscine&privacyEmail=true"> -->
 
 [![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/stats?cursusId=9&coalitionId=186)](https://github.com/JaeSeoKim/badge42)
+
+### ✅ Piscine Projects Marks
+
 ![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/project/2523381)
 ![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/project/2523381)
 ![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/project/2543423)
@@ -80,6 +83,7 @@
 ![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/project/2529468)
 ![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/project/2525771)
 ![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/project/2527698)
+
 [![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/stats?cursusId=21&coalitionId=152)](https://github.com/JaeSeoKim/badge42)
 
 </details>
