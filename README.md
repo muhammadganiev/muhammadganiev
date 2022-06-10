@@ -65,6 +65,21 @@
 <img src="https://badge42.herokuapp.com/api/stats/muganiev?cursus=C%20Piscine&privacyEmail=true"> -->
 
 [![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/stats?cursusId=9&coalitionId=186)](https://github.com/JaeSeoKim/badge42)
+[![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/project/2523381)]
+[![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/project/2523381)]
+[![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/project/2543423)]
+[![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/project/2534206)]
+[![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/project/2536483)]
+[![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/project/2540416)]
+[![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/project/2529914)]
+[![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/project/2528714)]
+[![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/project/2533402)]
+[![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/project/2535591)]
+[![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/project/2532180)]
+[![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/project/2528175)]
+[![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/project/2529468)]
+[![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/project/2525771)]
+[![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/project/2527698)]
 [![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/stats?cursusId=21&coalitionId=152)](https://github.com/JaeSeoKim/badge42)
 
 </details>
