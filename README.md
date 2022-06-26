@@ -66,7 +66,7 @@
 [42 AbuDhabi](https://42abudhabi.ae/)
 ### 🏊‍♂️ 42 Piscine
 
-[![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/stats?cursusId=9&coalitionId=152)](https://github.com/JaeSeoKim/badge42)
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/stats?cursusId=9&coalitionId=152" alt="muganiev's 42 stats" /></a>
 
 #### ✅ Piscine Projects Marks
 
