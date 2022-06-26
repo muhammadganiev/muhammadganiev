@@ -128,7 +128,7 @@ ft_printf
 ![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/project/2523381)
 
 get_next_line
-![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/project/2613347)
+![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/project/2636964)
 </details>
 
 ## Github Stats
