@@ -117,7 +117,7 @@ C Piscine Final Exam
 
 ### 👨‍💻 42 Cursus
 
-[![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/stats?cursusId=21&coalitionId=186)](https://github.com/JaeSeoKim/badge42)
+[![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/stats?cursusId=21&coalitionId=186)]
 
 #### ✅ Cursus Projects Marks
 
@@ -128,7 +128,9 @@ ft_printf
 ![muganiev's 42 stats](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/project/2523381)
 
 get_next_line
-[![muganiev's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/project/2636964)](https://github.com/JaeSeoKim/badge42)
+[![muganiev's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/project/2636964)]
+Born2beroot
+[![muganiev's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl48jdqx0002509l1mmc8eh0k/project/2708556)]
 </details>
 
 ## Github Stats
